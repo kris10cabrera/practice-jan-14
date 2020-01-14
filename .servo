@@ -2,14 +2,11 @@
   "platform": "nodejs",
   "tags": {
     "default": {
-      "owner": "cabrera.kristen@gmail.com",
+      "owner": "kristen.cabrera@wsj.com",
       "bu": "djcs",
       "product": "wsj",
       "component": "frntend",
       "environment": "dev"
-    },
-    "production": {
-      "environment": "production"
     }
   }
 }
